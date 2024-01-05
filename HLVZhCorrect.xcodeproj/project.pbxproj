@@ -24,7 +24,7 @@
 		B23178692B46ECFB00E871A2 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 		B231786B2B47C68F00E871A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		B231786C2B48040F00E871A2 /* AppConfigs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConfigs.swift; sourceTree = "<group>"; };
-		B248CEB52B416B05002829A0 /* HLVZhCorrect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HLVZhCorrect.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B248CEB52B416B05002829A0 /* TextCorrect.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TextCorrect.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B248CEB82B416B05002829A0 /* HLVZhCorrectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HLVZhCorrectApp.swift; sourceTree = "<group>"; };
 		B248CEBA2B416B05002829A0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B248CEBC2B416B07002829A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -60,7 +60,7 @@
 		B248CEB62B416B05002829A0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B248CEB52B416B05002829A0 /* HLVZhCorrect.app */,
+				B248CEB52B416B05002829A0 /* TextCorrect.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -119,7 +119,7 @@
 				B23178752B4833AC00E871A2 /* HLVSentence */,
 			);
 			productName = HLVZhCorrect;
-			productReference = B248CEB52B416B05002829A0 /* HLVZhCorrect.app */;
+			productReference = B248CEB52B416B05002829A0 /* TextCorrect.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -333,7 +333,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.yigegongjiang.T1.HLVZhCorrect;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = TextCorrect;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -367,7 +367,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.yigegongjiang.T1.HLVZhCorrect;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = TextCorrect;
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
