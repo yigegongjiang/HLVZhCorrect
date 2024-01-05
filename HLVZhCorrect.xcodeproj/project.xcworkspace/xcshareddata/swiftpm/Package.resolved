@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "down",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/johnxnguyen/Down.git",
+      "state" : {
+        "revision" : "f34b166be1f1db4aa8f573067e901d72f2a6be57",
+        "version" : "0.11.0"
+      }
+    },
+    {
+      "identity" : "hlvfiledump",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yigegongjiang/HLVFileDump.git",
+      "state" : {
+        "revision" : "f5772d6221fa1fbe7392121ad63efd8f0b3b26cc",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "hlvsentence",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yigegongjiang/HLVSentence.git",
+      "state" : {
+        "revision" : "305880660d65818022db94e86758f56bf46e7b33",
+        "version" : "1.0.4"
+      }
+    },
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser.git",
+      "state" : {
+        "revision" : "c8ed701b513cf5177118a175d85fbbbcd707ab41",
+        "version" : "1.3.0"
+      }
+    },
+    {
+      "identity" : "swiftshell",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kareman/SwiftShell.git",
+      "state" : {
+        "revision" : "99680b2efc7c7dbcace1da0b3979d266f02e213c",
+        "version" : "5.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
